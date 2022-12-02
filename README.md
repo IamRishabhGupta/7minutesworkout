@@ -6,3 +6,4 @@ This app will basically help user to do a popular set of exercises which is to b
 each exercise will have a pictorial representation and timer will be there for 30 secs then rest for few seconds
 This time I am using viewbinding 
 I am also using toolbar in place of actionbar
+my target is to complete this app in 7 days
