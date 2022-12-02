@@ -24,9 +24,15 @@ import com.example.a7minutesworkout.databinding.ActivityMainBinding
 
         binding?.fstart?.setOnClickListener{
 
-            Toast.makeText(this,"hello",Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this,"hello",Toast.LENGTH_SHORT).show()
 //            val intent= Intent(this,ExerciseActivity::class.java)
 //            startActivity(intent)
+
+
+            binding?.fstart?.setOnClickListener{
+                val intent=Intent(this,excercise_activity::class.java)
+                startActivity(intent)
+            }
         }
 
 //        fstartbutton.setOnClickListener {
