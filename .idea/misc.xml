@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/item_circular_accent_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/item_color_acent_border_ripple_bg.xml" value="0.2085" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2734375" />
       </map>
     </option>
