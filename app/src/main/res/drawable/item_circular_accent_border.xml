@@ -4,6 +4,8 @@
         android:width="5dp"
         android:color="@color/colorAccent"
         />
+
+<!--    takes care of the border-->
     <solid android:color="@color/white" />
 
 </shape>

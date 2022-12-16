@@ -22,7 +22,7 @@ import com.example.a7minutesworkout.databinding.ActivityMainBinding
 
         setContentView(binding?.root)
 
-        binding?.fstart?.setOnClickListener{
+
 
 //            Toast.makeText(this,"hello",Toast.LENGTH_SHORT).show()
 //            val intent= Intent(this,ExerciseActivity::class.java)
@@ -32,7 +32,7 @@ import com.example.a7minutesworkout.databinding.ActivityMainBinding
             binding?.fstart?.setOnClickListener{
                 val intent=Intent(this,excercise_activity::class.java)
                 startActivity(intent)
-            }
+
         }
 
 //        fstartbutton.setOnClickListener {
